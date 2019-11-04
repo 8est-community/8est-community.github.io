@@ -159,7 +159,7 @@ h6 {
     background-color: #f6f8fa;
     border: 1px solid #eaecef;
     border-radius: 4px;
-    padding: 20px 0;
+    padding: 25px 0;
 } */
 .jumbotron h1 {
     font-size: 32px;
@@ -326,9 +326,6 @@ h6 {
     overflow: auto;
     width: 29%;
 }
-/* Start Sidebar */
-
-/* End Sidebar */
 
 /* Start Box */
 .box-heading {
@@ -477,6 +474,7 @@ h5 {
     margin-top: 8px;
 }
 
+/* Start Color */
 /* .soft-grey {
     color: grey !important;
     font-weight: bold;
@@ -491,6 +489,14 @@ h5 {
     color: #0366d6;
     font-weight: bold;
 }
+/* End Color */
+
+/* start footer */
+.footer {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+/* end footer */
 
 /* start gallery */
 .gallery {
