@@ -37,6 +37,11 @@ body {
     overflow: auto;
     width: 100%;
 }
+
+.container-center {
+    text-align: center;
+    padding: 25px;
+}
 /* End Container */
 
 /* Start Container Header */
