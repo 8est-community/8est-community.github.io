@@ -41,6 +41,7 @@ body {
 .container-center {
     text-align: center;
     padding: 25px;
+    width: 100%;
 }
 /* End Container */
 
@@ -517,11 +518,3 @@ h5 {
     transform: scale[1.1];
 }
 /* end gallery */
-
-@media (min-width:600px){
-    */ mobile first /*
-}
-
-@media (max-width:600px){
-    */ desktop first /*
-}
