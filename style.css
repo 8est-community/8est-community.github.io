@@ -128,7 +128,7 @@ a:active {
 }
 
 .menu-primer .active {
-    background-color: #ffffff;
+    /* background-color: #ffffff; */
     color: #d60e0e;
     text-decoration: none;
     border-bottom: 3px solid #d60e0e;
