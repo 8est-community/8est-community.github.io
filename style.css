@@ -65,7 +65,7 @@ body {
 /* Start Logo */
 .logo {
     width: 20%;
-    margin-left: 20px;
+    margin: 25px;
     display: inline-block;
 }
 /* End Logo */
