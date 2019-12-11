@@ -41,6 +41,7 @@ body {
 .container-center {
     text-align: center;
     padding: 25px;
+    width: 90%; !important;
 }
 /* End Container */
 
@@ -64,7 +65,7 @@ body {
 /* Start Logo */
 .logo {
     width: 20%;
-    margin-left: 20px;
+    margin: 25px;
     display: inline-block;
 }
 /* End Logo */
@@ -127,7 +128,7 @@ a:active {
 }
 
 .menu-primer .active {
-    background-color: #ffffff;
+    /* background-color: #ffffff; */
     color: #d60e0e;
     text-decoration: none;
     border-bottom: 3px solid #d60e0e;
@@ -517,3 +518,10 @@ h5 {
     transform: scale[1.1];
 }
 /* end gallery */
+
+/* Utube */
+iframe {
+    width : 80%;
+    height :auto;
+  }
+/* end Utube */
