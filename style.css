@@ -518,3 +518,8 @@ h5 {
     transform: scale[1.1];
 }
 /* end gallery */
+
+/* Utube */
+iframe {
+    width: 55%;
+}
