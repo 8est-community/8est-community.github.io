@@ -40,8 +40,7 @@ body {
 
 .container-center {
     text-align: center;
-    padding: 25px;
-    width: 90%; !important;
+    margin-top: 25px;
 }
 /* End Container */
 
