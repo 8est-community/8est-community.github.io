@@ -521,5 +521,7 @@ h5 {
 
 /* Utube */
 iframe {
-    width: 55%;
-}
+    width : 80%;
+    height :auto;
+  }
+/* end Utube */
