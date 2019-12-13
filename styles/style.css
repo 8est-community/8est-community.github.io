@@ -30,6 +30,7 @@ body {
     margin: 25px auto;
     overflow: auto;
     width: 90%;
+    min-width: 300px;
 }
 
 .container-full {
@@ -198,6 +199,7 @@ h6 {
   position: relative;
   text-align: center;
   width: 100%;
+  min-width: 320px;
 }
 
 .snip1585 * {
@@ -237,6 +239,7 @@ h6 {
 .snip1585 img {
   vertical-align: top;
   max-width: 100%;
+  min-width: 320px;
   backface-visibility: hidden;
 }
 
