@@ -30,7 +30,7 @@ body {
     margin: 25px auto;
     overflow: auto;
     width: 90%;
-    min-width: 300px;
+    /* min-width: 300px; */
 }
 
 .container-full {
@@ -167,6 +167,15 @@ h6 {
     border-radius: 4px;
     padding: 25px 0;
 } */
+
+#header .jumbotron-custom {
+    height: 100vh;
+    background-image: url("../images/community-01.jpg");
+    background-size: cover;
+    background-position: center;
+    padding-top: 40vh;
+}
+
 .jumbotron h1 {
     font-size: 32px;
     color: #535151;
@@ -176,6 +185,7 @@ h6 {
     text-transform: uppercase;
     font-weight: bold;
 }
+
 .jumbotron h3 {
     font-size: 20px;
     color: #535151;
@@ -526,3 +536,16 @@ iframe {
     width : 80%;
   }
 /* end Utube */
+
+.footer-social {
+    font-size: 25px;
+    margin-right: 20px;
+}
+
+.scrolled {
+    background-color: #ffb6b6 !important;
+}
+
+body {
+    font-family: 'Montserrat' !important;
+}
